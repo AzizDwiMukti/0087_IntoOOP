@@ -42,5 +42,6 @@ int main() {
 	Mahasiswa mhs;
 	Matakuliah mk;
 
-	mhs.nama + "Budi";
+	mhs.nama = "Budi";
+	mhs.umr = 20;
 }
