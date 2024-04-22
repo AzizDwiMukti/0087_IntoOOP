@@ -22,4 +22,12 @@ private:
 	string namaMk;
 	int sks;
 public :
+	void input() {
+		cout << "kode Mk: ";
+		cin >> kodeMk;
+		cout << "nama Mk: ";
+		cin >> namaMk;
+		cout << "SKS: ";
+		cin >> sks;
+	}
 };
